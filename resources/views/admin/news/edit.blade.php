@@ -15,7 +15,7 @@
                         </ul>
                     @endif
                     <div class="form-group row">
-                        <label class="col-md-2" for="title">タイトル</label>
+                        <label class="col-md-2" for="title">題名</label>
                         <div class="col-md-10">
                             <input type="text" class="form-control" name="title" value="{{ $news_form->title }}">
                         </div>
